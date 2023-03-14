@@ -1,0 +1,67 @@
+ ''This page shows the Best Practices for making a guide in WordPress''
+----
+
+===== Things that should be filled out: =====
+These are the things you want to fill out when creating a new guide.
+# Post Title
+# Focus Keyphrase
+# Featured Image 
+# Categories
+# Tags
+# Meta Description
+# Excerpt 
+# Page Content
+
+----
+
+===== Post Title: =====
+The Post Title should be straight-forward and to the point. The first 3-4 words you use in the Title should also match your Focus Keyphrase. They would be the key words used for search engines to find the content. For example; if you want to write a Smoothies Guide for Grounded you would want to use something like "Grounded Smoothies Guide". You can add one more word, but never go above 4 words for your title.
+
+Always use the game name first. SEOs have found that most people will type out the game's name first and then the content they are looking for with that game. The game name is the "exception" to the 3-4 words in the Title. Always consider the game's name as 1 word even if it is broken out like "Lost Ark". Even though visually "Lost Ark" is 2 words, it would be considered as 1 for the purposes of the 3-4 words per title ruling. 
+
+----
+
+===== Focus Keyphrase: =====
+The Focus Keyphrase is how search engines categories things based on relevance. Your keyphrase will always be 3 to 4 words long and will be used throughout your post. It will also be part of some of your content headers. Yoast SEO will help you balance out how much of it should be in your post based on the word count and content. You don't want to overflow the page with your keyphrase, but you also need it to appear every so often in your content.
+
+----
+
+===== Featured Images: =====
+The Featured Image is the image that will always be pulled when linking to the post. When you post it on Facebook, Twitter, Discord, or any other location. Additionally the Featured Image will appear at the top of the post.
+
+All feature images used should be 1000 x 380 pixels in size. This will help unify the content. 
+
+----
+
+===== Categories: =====
+Always select the game that you are creating the content for. It will always be the primary as it will use that in the URL to the page post.
+
+Select News as the secondary category or non-primary when the article you are creating is for news.
+
+If the information is not for a game, but news for Casual Survivors, then and only then will the category be News and nothing else. 
+
+----
+
+===== Tags: =====
+There are additional filters that search engines will use to find content. These are things you feel would be great as a secondary Focus Keyphrase. 
+
+----
+
+===== Meta Description: =====
+The information in the Meta Description is the small except that appears you post a link to the page. For example; if you link your post to Facebook, Twitter, or any other social media, it will take Meta Description as the informational text that shows in the website preview for it. 
+
+The Meta Description and the Except should match. Different web browsers categories the information differently, so we end up having these 2 fields matching to unify it across web browsers. 
+
+----
+
+===== Excerpt: =====
+Should match the Meta Description. See above. 
+
+----
+
+===== Page Content: =====
+This is where you break down your information for people to read. You will want to create headers and sections within to organize the information you are presenting.
+
+Yoast SEO will be your friend for making the content readable to the viewers and to make sure you have everything you need in the post. Make sure that the SEO Analysis is always green before you submit your post to the public. (Orange is acceptable with-in reason. IE: It's a short news post or there is very little content to support) 
+
+----
